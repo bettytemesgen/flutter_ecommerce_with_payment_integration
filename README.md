@@ -1,12 +1,17 @@
-# flutter_ecommerce_with_payment_integration
+# projectone
 
-## Features
+A new Flutter project.
 
-- Browse products with categories and search functionality
-- Add products to cart and manage quantities
-- User profile with editable information
-- Order history and tracking
-- Wishlist for favorite products
-- Secure payment integration using **SantimPay**
-- Responsive UI for mobile devices
-- Profile picture selection from gallery
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+Z
